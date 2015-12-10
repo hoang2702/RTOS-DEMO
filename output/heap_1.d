@@ -1,0 +1,11 @@
+.\output\heap_1.o: lib\freertos\c\heap_1.c
+.\output\heap_1.o: E:\chuongtrinh\keinc\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\heap_1.o: .\lib\freertos\h\FreeRTOS.h
+.\output\heap_1.o: E:\chuongtrinh\keinc\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\heap_1.o: .\lib\freertos\h\projdefs.h
+.\output\heap_1.o: .\lib\freertos\h\FreeRTOSConfig.h
+.\output\heap_1.o: .\lib\freertos\h\portable.h
+.\output\heap_1.o: .\lib\freertos\h\portmacro.h
+.\output\heap_1.o: .\lib\freertos\h\mpu_wrappers.h
+.\output\heap_1.o: .\lib\freertos\h\task.h
+.\output\heap_1.o: .\lib\freertos\h\list.h

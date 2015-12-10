@@ -1,0 +1,15 @@
+.\output\tasks.o: lib\freertos\c\tasks.c
+.\output\tasks.o: E:\chuongtrinh\keinc\ARM\ARMCC\Bin\..\include\stdio.h
+.\output\tasks.o: E:\chuongtrinh\keinc\ARM\ARMCC\Bin\..\include\stdlib.h
+.\output\tasks.o: E:\chuongtrinh\keinc\ARM\ARMCC\Bin\..\include\string.h
+.\output\tasks.o: .\lib\freertos\h\FreeRTOS.h
+.\output\tasks.o: E:\chuongtrinh\keinc\ARM\ARMCC\Bin\..\include\stddef.h
+.\output\tasks.o: .\lib\freertos\h\projdefs.h
+.\output\tasks.o: .\lib\freertos\h\FreeRTOSConfig.h
+.\output\tasks.o: .\lib\freertos\h\portable.h
+.\output\tasks.o: .\lib\freertos\h\portmacro.h
+.\output\tasks.o: .\lib\freertos\h\mpu_wrappers.h
+.\output\tasks.o: .\lib\freertos\h\task.h
+.\output\tasks.o: .\lib\freertos\h\list.h
+.\output\tasks.o: .\lib\freertos\h\timers.h
+.\output\tasks.o: .\lib\freertos\h\StackMacros.h
